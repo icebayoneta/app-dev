@@ -1,2 +1,5 @@
 # app-dev
-my first repository
+**favorite movies**
+1. Panday 1
+2. haba baba doo puti puti poo
+3. frozen
